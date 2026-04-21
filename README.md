@@ -17,7 +17,17 @@ Project ini adalah aplikasi Form sederhana yang mengimplementasikan fitur autent
 - Autentikasi Sederhana Tanpa Database
 
 ## Screenshot Preview
-<!-- Tambahkan screenshot Anda di sini -->
+<div align="center">
+  <img src="./assets/screenshots/login.png" width="200" alt="Login Screen" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="./assets/screenshots/register.png" width="200" alt="Register Screen" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="./assets/screenshots/upload.png" width="200" alt="Upload Photo Screen" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="./assets/screenshots/home.png" width="200" alt="Home Screen" />
+</div>
+
+> *Catatan: Silakan buat folder `assets/screenshots/` dan letakkan gambar screenshot Anda di sana dengan nama yang sesuai, atau ubah path gambar di atas.*
 
 ## Cara Menjalankan
 Aplikasi ini menggunakan Expo.
