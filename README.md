@@ -15,11 +15,11 @@ Aplikasi ini memiliki sistem form yang lengkap dengan validasi menggunakan Formi
 ### Fitur Utama
 
 - Login dengan validasi email dan password
-- Register multi-step (Data Pribadi → Akun → Review)
+- Register multi-step (Data Pribadi > Akun > Review)
 - Upload foto profil dari galeri
 - Password strength indicator (weak, medium, strong)
 - Auto focus antar input
-- Custom alert (bukan alert bawaan)
+- Custom alert 
 - Penyimpanan data menggunakan AsyncStorage
 - Animasi transisi antar step
 
